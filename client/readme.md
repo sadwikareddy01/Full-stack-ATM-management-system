@@ -1,12 +1,5 @@
 # ATM Management System (Client)
 
-[![GitHub license](https://img.shields.io/github/license/iamevs/atm-management)](https://github.com/iamevs/atm-management-system/blob/main/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/iamevs/atm-management)](https://github.com/iamevs/atm-management-system/stargazers)
-
-[![GitHub issues](https://img.shields.io/github/issues/iamevs/atm-management)](https://github.com/iamevs/atm-management-system/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/iamevs/atm-management)](https://github.com/iamevs/atm-management-system/network)
 
 This is the client-side of the ATM Management System built using React and Tailwind CSS. It provides a user-friendly interface for users to interact with the ATM Management System.
 
@@ -79,6 +72,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-If you have any questions or suggestions regarding this project, feel free to contact the author at [github.com/iamevs](https://github.com/iamevs).
